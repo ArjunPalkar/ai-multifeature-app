@@ -1,7 +1,7 @@
 # ai-multifeature-app
 
 
-An AI-powered full-stack application** built with **Spring Boot (Java)** and React.js, featuring interactive **AI chat, image generation, and recipe creation using OpenAI integration 
+An AI-powered full-stack application** built with **Spring Boot (Java)** and React.js, featuring interactive AI chat, image generation, and recipe creation using OpenAI integration 
 
 
 
