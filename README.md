@@ -14,3 +14,5 @@ Full Stack Integration – Java Spring Boot backend with React frontend
 CORS Configured – Seamless communication between frontend and backend  
 
 ![image alt](https://github.com/ArjunPalkar/ai-multifeature-app/blob/b7e7703ddf0f4e054577f0b84702d23a4624ec64/Screenshot%202025-11-11%20182952.png)
+![image alt]()
+![image alt]()
