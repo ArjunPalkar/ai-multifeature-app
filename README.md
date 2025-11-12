@@ -13,3 +13,4 @@ AI Recipe Creator – Get recipes based on ingredients or meal type
 Full Stack Integration – Java Spring Boot backend with React frontend  
 CORS Configured – Seamless communication between frontend and backend  
 
+![Logo]("C:\Users\arjun\OneDrive\Pictures\Screenshots\Screenshot 2025-11-11 182952.png")
