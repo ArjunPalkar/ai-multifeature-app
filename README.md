@@ -15,4 +15,4 @@ CORS Configured – Seamless communication between frontend and backend
 
 ![image alt](https://github.com/ArjunPalkar/ai-multifeature-app/blob/b7e7703ddf0f4e054577f0b84702d23a4624ec64/Screenshot%202025-11-11%20182952.png)
 ![image alt](https://github.com/ArjunPalkar/ai-multifeature-app/blob/f51a17ca800a42ba1827ab7a3d584e916940e30c/Screenshot%202025-11-11%20171041.png)
-![image alt]()
+![image alt](https://github.com/ArjunPalkar/ai-multifeature-app/blob/3c753f6360ebfaed7209ac8ac50346abbf342f4a/Screenshot%202025-11-11%20171102.png)
